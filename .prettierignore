@@ -1,0 +1,10 @@
+# Ignore artifacts
+.next
+build
+coverage
+node_modules
+public
+pnpm-lock.yaml
+
+# Ignore all HTML files:
+*.html 
